@@ -16,7 +16,7 @@ Currently, I am working on the economic dispatch issue of electric buses (EBs) i
 
 Recent News
 ======
-On Nov. 19, 2021, together with Mr. Jinxi Zhang as a team, I was honored to win the Award of Excellence in the 2021 X-Game Shanghai New Energy Vehicle Big Data Competition. Prof. Hongcai Zhang received the Best Mentor Award as the supervisor. Check the news in [Chinese](https://www.um.edu.mo/zh-hant/news-and-press-releases/presss-release/detail/52889/) or [English](https://www.um.edu.mo/news-and-press-releases/press-release/detail/52889/).
+On Nov. 19, 2021, together with Mr. Jinxi Zhang as a team, I was honored to win the Award of Excellence in the **_2021 X-Game Shanghai New Energy Vehicle Big Data Competition_**. Prof. Hongcai Zhang received the Best Mentor Award as the supervisor. Check the news in [Chinese](https://www.um.edu.mo/zh-hant/news-and-press-releases/presss-release/detail/52889/) or [English](https://www.um.edu.mo/news-and-press-releases/press-release/detail/52889/).
 
 From Jul. to Nov. 2021, I have been working as the student leader on a project called **_Development Plan of Electric Vehicle Charging in Macau_** cooperated with [Companhia de Electricidade de Macau - CEM, S.A. (CEM)，澳门电力](https://www.cem-macau.com/en/). The final project report will be submitted to the leadership of CEM and relevant departments of Macao SAR Government. 
 
