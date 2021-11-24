@@ -1,24 +1,24 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: louiskong.github.io/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: louiskong.github.io/talks/    
 
 
  # - title: "Teaching"
- #   url: /teaching/    
+ #   url: louiskong.github.io/teaching/    
     
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: louiskong.github.io/portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: louiskong.github.io/year-archive/
     
   - title: "CV"
-    url: cv/
+    url: louiskong.github.io/cv/
     
   - title: "Guide"
-    url: /markdown/
+    url: louiskong.github.io/markdown/
