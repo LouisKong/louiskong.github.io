@@ -12,7 +12,7 @@ I am a PhD student at the [State Key Laboratory of Internet of Things for Smart 
 
 Before joining UM, I received a BEng in Automation from [Shandong Univ.](https://www.sdu.edu.cn/), and MSc in ECE from [NUS](https://www.nus.edu.sg/).
 
-Currently, I am working on the economic dispatch issue of electric bus (EB) in active distribution network.
+Currently, I am working on the economic dispatch issue of electric buses (EBs) in active distribution network.
 
 Recent News
 ======
