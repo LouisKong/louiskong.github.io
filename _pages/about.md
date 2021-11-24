@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at the [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/) , [University of Macau (UM)](https://www.um.edu.mo/) under the supervision of [Prof. Hongcai Zhang](https://www.fst.um.edu.mo/personal/hczhang/) and [Prof. Ningyi Dai](https://www.fst.um.edu.mo/personal/nydai/). My research interests include electric vehicles, power-transportation coupled network and related optimization work. 
 
-Before joining UM, I received a BEng in Automation from [Shandong Univ.](https://www.sdu.edu.cn/), and MSc in ECE from [NUS](https://www.nus.edu.sg/).
+Before joining UM, I received a BEng in Automation from [Shandong Univ.](https://www.sdu.edu.cn/), and MSc in ECE from [NUS](https://www.nus.edu.sg/) and ME in [HKUST](https://hkust.edu.hk/).
 
 Currently, I am working on the economic dispatch issue of electric buses (EBs) in active distribution network.
 
