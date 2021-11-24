@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 title: "About"
@@ -8,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<meta name="google-site-verification" content="jV8TTd89XjiCPP1zpfPHZbFJGvigh29UY8euIc7Xlls" />
 
 I am a PhD student at the [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/) , [University of Macau (UM)](https://www.um.edu.mo/) under the supervision of [Prof. Hongcai Zhang](https://www.fst.um.edu.mo/personal/hczhang/) and [Prof. Ningyi Dai](https://www.fst.um.edu.mo/personal/nydai/). My research interests include electric vehicles, power-transportation coupled network and related optimization work. 
 
