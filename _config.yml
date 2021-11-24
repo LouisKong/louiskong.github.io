@@ -85,7 +85,7 @@ author:
   bio              : "Every day counts."
   location         : "China"
   employer         : #"SKL-IOTSC"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=QBY1S2cAAAAJ&gmla=AJsN-F5PUjVGNde8CjcELBp0SjD7mZsloY3jSzYWDOgRD50LjVGGag98M_jyldPBfTiTwEtSDl-rRmCf1QDiPf6FxdIAitisXDS77yJmkTh4TMPXLCFL3KfVLIPmZV_BxzT3dZ7CJ63kLZuWTGBOFcqo3IcrpIu1hA"
   email            : "lous.konglingming@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Lingming-Kong-4"
