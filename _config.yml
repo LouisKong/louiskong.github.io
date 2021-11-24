@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Louis/Lingming Kong"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -83,27 +83,27 @@ author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  location         : "https://www.google.com/maps/place/%E6%BE%B3%E9%97%A8%E5%A4%A7%E5%AD%A6/@22.130007,113.5435854,17z/data=!3m1!4b1!4m5!3m4!1s0x3401703f064ef97f:0xeb5f9c6e4a48b246!8m2!3d22.130002!4d113.5457795"
+  employer         : "SKL-IOTSC"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=QBY1S2cAAAAJ&gmla=AJsN-F5PUjVGNde8CjcELBp0SjD7mZsloY3jSzYWDOgRD50LjVGGag98M_jyldPBfTiTwEtSDl-rRmCf1QDiPf6FxdIAitisXDS77yJmkTh4TMPXLCFL3KfVLIPmZV_BxzT3dZ7CJ63kLZuWTGBOFcqo3IcrpIu1hA"
+  email            : "lous.konglingming@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Lingming-Kong-4"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/profile.php?id=100005933266741"
   foursquare       :
-  github           : "academicpages"
+  github           : "LouisKong"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/louis_konglingming/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/louis-lingming-kong-7463a4108/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2695-8685"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
