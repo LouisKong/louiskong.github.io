@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Lingming Kong"
+  avatar           : "KongLingming.JPG"
+  bio              : "Every day counts."
   location         : "https://www.google.com/maps/place/%E6%BE%B3%E9%97%A8%E5%A4%A7%E5%AD%A6/@22.130007,113.5435854,17z/data=!3m1!4b1!4m5!3m4!1s0x3401703f064ef97f:0xeb5f9c6e4a48b246!8m2!3d22.130002!4d113.5457795"
   employer         : "SKL-IOTSC"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
