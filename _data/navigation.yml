@@ -9,7 +9,7 @@ main:
     url: biography/
   
   - title: "MISC"
-    url: /
+    url: MISC/
     
 #  - title: "Talks"
 #    url: talks/    
