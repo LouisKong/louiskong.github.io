@@ -1,6 +1,6 @@
 ---
-title: "First online pilot of my personal homepage"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "20211125-First online pilot of my personal homepage"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/SKL-IOTSC.png'>"
 collection: portfolio
 ---
 
