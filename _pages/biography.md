@@ -65,15 +65,15 @@ Service and leadership
 * Vice-president, Mainland Students and Scholars Society of HKUST, Hong Kong S.A.R.
 * President, Chinese Students and Scholars Association of CUHK, Hong Kong S.A.R.
 
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
+<!-- Talks
+======
+ <ul>{% for post in site.talks %}
+   {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
   
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
   
