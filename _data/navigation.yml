@@ -8,8 +8,8 @@ main:
   - title: "Biography"
     url: biography/
   
-  - title: "MISC"
-    url: misc/
+ # - title: "MISC"
+ #   url: misc/
     
 #  - title: "Talks"
 #    url: talks/    
