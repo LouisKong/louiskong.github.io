@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Automation, Shandong University, 2016
-* M.S. in Electric and Computer Engineering (ECE), National University of Singapore, 2018
-* M.S. in Mechanical Engineering (ME), Hong Kong University of Science and Technology, 2020
 * Ph.D in Electrical and Computer Engineering (ECE), University of Macau, 2023 (expected)
+* M.S. in Mechanical Engineering (ME), Hong Kong University of Science and Technology, 2020
+* M.S. in Electric and Computer Engineering (ECE), National University of Singapore, 2018
+* B.S. in Automation, Shandong University, 2016
 
 Publications
 ======
@@ -40,15 +40,15 @@ Selected awards and honors
 
 Work experience
 ======
-* Aug. 2018 to Jun. 2019: Senior Process Engineer
-  * United Microelectronics Co. Ltd., Singapore
-  * Duties included: Ion implanter process improvement, quality improvement team (QIT) project
-  * Supervisor: Xie Meng
-
 * Summer 2020: Intern Engineer
   * Guangdong Bright Dream Robotics Co. Ltd., P.R.C.
   * Duties included: Agile project development
   * Supervisor: Liu Lei 
+
+* Aug. 2018 to Jun. 2019: Senior Process Engineer
+  * United Microelectronics Co. Ltd., Singapore
+  * Duties included: Ion implanter process improvement, quality improvement team (QIT) project
+  * Supervisor: Xie Meng
 
 Skills
 ======
