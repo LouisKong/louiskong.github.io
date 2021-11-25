@@ -236,7 +236,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-    # _misc
+   # _misc
   - scope:
       path: ""
       type: misc
