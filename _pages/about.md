@@ -16,7 +16,7 @@ Currently, I am working on the economic dispatch issue of electric buses (EBs) i
 
 Recent News
 ======
-On Oct. 11, 2022, new publication: L. Kong, H. Zhang, W. Li, H. Bai, and N. Dai, **_Spatial-temporal Scheduling of Electric Bus Fleet in Power-Transportation Coupled Network_**, to appear in IEEE Transactions on Transportation Electrification, 2022.
+On Oct. 11, 2022, new publication: L. Kong, H. Zhang, W. Li, H. Bai, and N. Dai, "Spatial-temporal Scheduling of Electric Bus Fleet in Power-Transportation Coupled Network", to appear in **_IEEE Transactions on Transportation Electrification_**, 2022.
 
 On Oct. 01, 2022, I will give a presentation at the forthcoming **_6th IEEE Conference on Energy Internet and Energy System Integration (EI2), Chengdu_**, from Oct 28 to 30. The title is **Spatial-temporal Scheduling of Commercial EVs for System Restoration of a Damaged Power-transportation Coupled Network**.
 
