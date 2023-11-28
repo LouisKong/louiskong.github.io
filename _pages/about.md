@@ -16,11 +16,21 @@ Currently, I am working on the economic dispatch issue of electric buses (EBs) i
 
 Recent News
 ======
+On Nov. 11, 2023, a newly submitted journal paper: L. Kong, H. Zhang and N. Dai, "Leveraging Electric Vehicles to Enhance Resilience of Interconnected Power-Transportation System Under Natural Hazards", in **_IEEE Transactions on Transportation Electrification_**.
+
+On Nov. 9, 2023, participated in a new review paper accepted by Sub-journal of Nature: H. Zhang, X. Hu, Z. Hu, and S. Moura, “Sustainable plug-in electric vehicle integration into power systems,” to appear in **_Nature Reviews Electrical Engineering_**, 2024.  
+
+On Jul. 10, 2023, new publication: J. Zhang, L. Kong and H. Zhang, "Coordinated Ride-hailing Order Scheduling and Charging for Autonomous Electric Vehicles based on Deep Reinforcement Learning", in **_IEEE I\&CPS Asia, Chongqing, 2022_**.
+
+On Mar. 05, 2023, together with Mr. Jinxi Zhang and Dr. Hui Li, we were honored to win the Third Award in the **_2022 Guangdong-Hong Kong-Macao Greater Bay Area New Energy Intelligent Vehicle Big Data Innovation Competition_**. Prof. Hongcai Zhang received the Best Mentor Award as the supervisor. Check the news in [Chinese](https://mp.weixin.qq.com/s/peuzw-QXI4F5AO8ySLnShg).
+
+On Nov. 11, 2022, new publication: L. Kong, H. Zhang and N. Dai, "Spatial-Temporal Scheduling of Commercial EVs for System Restoration of a Damaged Power-Transportation Coupled Network", in **_IEEE 6th Conference on Energy Internet and Energy System Integration (EI2), 2022_**.
+
 On Oct. 11, 2022, new publication: L. Kong, H. Zhang, W. Li, H. Bai, and N. Dai, "Spatial-temporal Scheduling of Electric Bus Fleet in Power-Transportation Coupled Network", to appear in **_IEEE Transactions on Transportation Electrification_**, 2022.
 
 On Oct. 01, 2022, I will give a presentation at the forthcoming **_6th IEEE Conference on Energy Internet and Energy System Integration (EI2), Chengdu_**, from Oct 28 to 30. The title is "Spatial-temporal Scheduling of Commercial EVs for System Restoration of a Damaged Power-transportation Coupled Network".
 
-On Nov. 19, 2021, together with Mr. Jinxi Zhang as a team, I was honored to win the Award of Excellence in the **_2021 X-Game Shanghai New Energy Vehicle Big Data Competition_**. Prof. Hongcai Zhang received the Best Mentor Award as the supervisor. Check the news in [Chinese](https://www.um.edu.mo/zh-hant/news-and-press-releases/presss-release/detail/52889/) or [English](https://www.um.edu.mo/news-and-press-releases/press-release/detail/52889/).
+On Nov. 19, 2021, together with Mr. Jinxi Zhang as a team, we were honored to win the Award of Excellence in the **_2021 X-Game Shanghai New Energy Vehicle Big Data Competition_**. Prof. Hongcai Zhang received the Best Mentor Award as the supervisor. Check the news in [Chinese](https://www.um.edu.mo/zh-hant/news-and-press-releases/presss-release/detail/52889/) or [English](https://www.um.edu.mo/news-and-press-releases/press-release/detail/52889/).
 
 From Jul. to Nov. 2021, I have been working as the student leader on a project called **_Development Plan of Electric Vehicle Charging in Macau_** cooperated with [Companhia de Electricidade de Macau - CEM, S.A. (CEM)，澳门电力](https://www.cem-macau.com/en/). The final project report will be submitted to the leadership of CEM and relevant departments of Macao SAR Government. 
 
