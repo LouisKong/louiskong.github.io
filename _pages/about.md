@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/) , [University of Macau (UM)](https://www.um.edu.mo/) under the supervision of [Prof. Hongcai Zhang](https://www.fst.um.edu.mo/personal/hczhang/) and [Prof. Ningyi Dai](https://www.fst.um.edu.mo/personal/nydai/). My research interests include electric vehicles, power-transportation coupled network and related optimization work. 
+I am a PhD student at the [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/) , [University of Macau (UM)](https://www.um.edu.mo/) under the supervision of [Prof. Hongcai Zhang](https://www.fst.um.edu.mo/personal/hczhang/) and [Prof. Ningyi Dai](https://www.fst.um.edu.mo/personal/nydai/). My research interests include electric vehicles, power-transportation coupled networks, and related optimization dispatch issues. 
 
-Before joining UM, I received a BEng in Automation from [Shandong Univ.](https://www.sdu.edu.cn/), and MSc in ECE from [NUS](https://www.nus.edu.sg/) and ME in [HKUST](https://hkust.edu.hk/).
-
-Currently, I am working on the economic dispatch issue of electric buses (EBs) in active distribution network.
+Before joining UM, I received a BEng in Automation from [Shandong Univ.](https://www.sdu.edu.cn/), an MSc in ECE from [NUS](https://www.nus.edu.sg/), and an ME in [HKUST](https://hkust.edu.hk/).
 
 Recent News
 ======
-On Nov. 11, 2023, a newly submitted journal paper: L. Kong, H. Zhang and N. Dai, "Leveraging Electric Vehicles to Enhance Resilience of Interconnected Power-Transportation System Under Natural Hazards", in **_IEEE Transactions on Transportation Electrification_**.
+On Jun. 21, 2024, I will give a presentation entitled "Resilience Evaluation of Power-Transportation Coupled Network with Electric Vehicles’ Restoration Service" in **ITEC, Chicago, 2024**. 
 
-On Nov. 9, 2023, participated in a new review paper accepted by Sub-journal of Nature: H. Zhang, X. Hu, Z. Hu, and S. Moura, “Sustainable plug-in electric vehicle integration into power systems,” to appear in **_Nature Reviews Electrical Engineering_**, 2024.  
+On May. 3, 2024, new publication: L. Kong, H. Zhang, Dunjian Xie, and N. Dai, "Leveraging Electric Vehicles to Enhance Resilience of Interconnected Power-Transportation System Under Natural Hazards", in **_IEEE Transactions on Transportation Electrification_**, 2024.
+
+On Nov. 9, 2023, participated in a review paper accepted by Sub-journal of Nature: H. Zhang, X. Hu, Z. Hu, and S. Moura, “Sustainable plug-in electric vehicle integration into power systems,” to appear in **_Nature Reviews Electrical Engineering_**, 2024.  
 
 On Jul. 10, 2023, new publication: J. Zhang, L. Kong and H. Zhang, "Coordinated Ride-hailing Order Scheduling and Charging for Autonomous Electric Vehicles based on Deep Reinforcement Learning", in **_IEEE I\&CPS Asia, Chongqing, 2022_**.
 
