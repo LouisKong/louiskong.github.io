@@ -14,7 +14,7 @@ Before joining UM, I received a BEng in Automation from [Shandong Univ.](https:/
 
 Recent News
 ======
-On Jun. 21, 2024, I will give a presentation entitled "Resilience Evaluation of Power-Transportation Coupled Network with Electric Vehicles’ Restoration Service" in **ITEC, Chicago, 2024**. 
+On Jun. 21, 2024, I will give a presentation entitled "Resilience Evaluation of Power-Transportation Coupled Network with Electric Vehicles’ Restoration Service" in **_ITEC, Chicago, 2024_**. 
 
 On May. 3, 2024, new publication: L. Kong, H. Zhang, Dunjian Xie, and N. Dai, "Leveraging Electric Vehicles to Enhance Resilience of Interconnected Power-Transportation System Under Natural Hazards", in **_IEEE Transactions on Transportation Electrification_**, 2024.
 
