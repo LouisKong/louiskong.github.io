@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering (ECE), University of Macau, 2024 (expected)
+* Ph.D in Electrical and Computer Engineering (ECE), University of Macau, 2024
 * M.S. in Mechanical Engineering (ME), Hong Kong University of Science and Technology, 2020
 * M.S. in Electric and Computer Engineering (ECE), National University of Singapore, 2018
 * B.S. in Automation, Shandong University, 2016
@@ -24,8 +24,10 @@ Publications
   
 Research interests
 =====
+* New Electricity Systems
+* Demand Response
 * Electric Vehicles
-* Power-transportation Coupled Network
+* Power-transportation Coupled Networks
 * Optimization Methodology
 * Smart Grid
 
