@@ -1,6 +1,5 @@
 ---
-title: "Personal homepage 1st online pilot "
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Oct 23, 2024, I successfully defended my thesis. Thanks for my supervisors, Prof. Hongcai Zhang and Prof. Ningyi Dai<br/><img src='/images/500x300.png'>"
 collection: misc
 ---
 
