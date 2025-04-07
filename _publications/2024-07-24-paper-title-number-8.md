@@ -1,7 +1,7 @@
 ---
 title: "Resilience Evaluation of Power-transportation Coupled Network with Electric Vehicles’ Restoration Service"
 collection: publications
-permalink: /publication/2024-07-24-paper-title-number-6
+permalink: /publication/2024-07-24-paper-title-number-8
 date: 2024-07-24
 venue: '2024 IEEE Transportation Electrification Conference and Expo (ITEC)'
 paperurl: '[https://ieeexplore.ieee.org/document/10530154](https://ieeexplore.ieee.org/abstract/document/10599080)'
