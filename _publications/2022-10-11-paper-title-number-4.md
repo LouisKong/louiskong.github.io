@@ -1,5 +1,5 @@
 ---
-title: "Spatial-temporal Scheduling of Electric Bus Fleet in Power-Transportation Coupled Network"
+title: "Spatial-temporal Scheduling of Electric Bus Fleet in Power-Transportation Coupled Network" 11
 collection: publications
 permalink: /publication/2022-10-11-paper-title-number-4
 date: 2022-10-11
