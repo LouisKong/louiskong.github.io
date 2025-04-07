@@ -14,9 +14,9 @@ Before joining SZPU, I did my Ph.D. at the [State Key Laboratory of Internet of 
 
 Recent News
 ======
-On Mar. 14, 2025, I joined [the Institute of Intelligence Science and Engineering](https://iise.szpu.edu.cn/), [Shenzhen Polytechnic University (SZPU)](https://www.szpu.edu.cn/) as a research associate. 
+On Mar. 14, 2025, I joined [the Institute of Intelligence Science and Engineering](https://iise.szpu.edu.cn/), [Shenzhen Polytechnic University (SZPU)](https://www.szpu.edu.cn/) as a **_research associate_**. 
 
-On Nov. 13, 2024, I graduated with a Ph.D. from the University of Macau. I express my deepest gratitude to my supervisors,  [Prof. Ningyi Dai](https://www.fst.um.edu.mo/personal/nydai/) and [Prof. Hongcai Zhang](https://www.fst.um.edu.mo/personal/hczhang/). I would also like to thank the professors on the Examination Committee for my Oral Defense: [Prof. Hongxun Hui](https://huihongxun.github.io/), [Prof. Lao Keng-Weng](https://www.fst.um.edu.mo/personal/johnnylao/), and [Prof. Meng Song](http://www.meng-song.cn/).
+On Nov. 13, 2024, I **_graduated with a Ph.D. from the University of Macau_**. I express my deepest gratitude to my supervisors,  [Prof. Ningyi Dai](https://www.fst.um.edu.mo/personal/nydai/) and [Prof. Hongcai Zhang](https://www.fst.um.edu.mo/personal/hczhang/). I would also like to thank the professors on the Examination Committee for my Oral Defense: [Prof. Hongxun Hui](https://huihongxun.github.io/), [Prof. Lao Keng-Weng](https://www.fst.um.edu.mo/personal/johnnylao/), and [Prof. Meng Song](http://www.meng-song.cn/).
 
 On Jun. 21, 2024, I will present "Resilience Evaluation of Power-Transportation Coupled Network with Electric Vehicles’ Restoration Service" in **_ITEC, Chicago, 2024_**. 
 
