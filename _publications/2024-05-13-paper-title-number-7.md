@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Electric Vehicles to Enhance Resilience of Interconnected Power-Transportation System Under Natural Hazards"
 collection: publications
-permalink: /publication/2024-05-13-paper-title-number-5
+permalink: /publication/2024-05-13-paper-title-number-7
 date: 2024-05-13
 venue: 'IEEE Transactions on Transportation Electrification'
 paperurl: 'https://ieeexplore.ieee.org/document/10530154'
