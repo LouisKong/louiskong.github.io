@@ -33,11 +33,13 @@ Research interests
 Academic services
 =====
 **Journal Reviewer**
-* **Reviewer** of IEEE Transactions on Power System (TPS), Sustainable Energy (TTSE), Smart Grid (TSG), Transportation Electricification (TTE), Power Delivery (TPD)
-* **Reviewer** of Scientific Reports, Reliability Engineering & System Safety
+* **Reviewer** of *IEEE Transactions on Power System (TPS), Sustainable Energy (TTSE), Smart Grid (TSG), Transportation Electricification (TTE), Power Delivery (TPD)*
+* **Reviewer** of *Scientific Reports, Reliability Engineering & System Safety*
   
 **Conference Organization**
-
+* **Program Committee Member**, The 9th IEEE Conference on Energy Internet and Energy System Integration (IEEE EI²), Jilin, China, December 5 – 8, 2025
+* **Track Committee Member**, 2025 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC-AP), Singapore, November 25 - 28, 2025
+* **Technical Committee Member**, The IEEE 7th Student Conference on Electric Machines and Systems (SCEMS), Macau, China, November 6 - 8, 2024
 =====
 * **UM Macao Ph.D. Scholarship**
 * Mingxi Charity Foundation Youth Scholarship
