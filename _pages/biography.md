@@ -40,6 +40,8 @@ Academic services
 * **Program Committee Member**, The 9th IEEE Conference on Energy Internet and Energy System Integration (IEEE EI²), Jilin, China, December 5 – 8, 2025
 * **Track Committee Member**, 2025 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC-AP), Singapore, November 25 - 28, 2025
 * **Technical Committee Member**, The IEEE 7th Student Conference on Electric Machines and Systems (SCEMS), Macau, China, November 6 - 8, 2024
+
+Honors and awards
 =====
 * **UM Macao Ph.D. Scholarship**
 * Mingxi Charity Foundation Youth Scholarship
@@ -64,12 +66,12 @@ Skills
 ======
 * Coding: Matlab, C, Python, R
 * Texting: LATEX, MS Office, markdown
-* Others: Tableau, Video Editing Softwares
+* Others: Tableau, Video Editing Software
 * Spoken: Mandarin(native), English(fluent), Cantonese(intermediate)
 
 Service and leadership
 ======
-* House Tutor, Postgraduate Hall of University of Macau, Macau S.A.R.
+* House Tutor, Postgraduate Hall of the University of Macau, Macau S.A.R.
 * Donor, Blood Donation Campaign, P.R.C., Hong Kong S.A.R., Singapore 
 * Volunteer, National Kidney Foundation, Singapore
 * Vice-president, Mainland Students and Scholars Society of HKUST, Hong Kong S.A.R.
