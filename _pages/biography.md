@@ -29,9 +29,15 @@ Research interests
 * Electric Vehicles
 * Power-transportation Coupled Networks
 * Optimization Methodology
-* Smart Grid
 
-Selected awards and honors
+Academic services
+=====
+**Journal Reviewer**
+* **Reviewer** of IEEE Transactions on Power System (TPS), Sustainable Energy (TTSE), Smart Grid (TSG), Transportation Electricification (TTE), Power Delivery (TPD)
+* **Reviewer** of Scientific Reports, Reliability Engineering & System Safety
+  
+**Conference Organization**
+
 =====
 * **UM Macao Ph.D. Scholarship**
 * Mingxi Charity Foundation Youth Scholarship
