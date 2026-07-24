@@ -4,4 +4,5 @@ excerpt: "Only six selected papers received this award. <br/><img src='/images/T
 collection: portfolio
 ---
 
-This is the 1st online test of my personal homepage using  Minimal Mistakes Jekyll Theme. As the saying goes, never too old to learn, hope it is a good start for my next career.  
+[Find the latest news here](https://www.ieee-pels.org/awards/transactions-on-transportation-electrification-prize-paper/)
+ 
