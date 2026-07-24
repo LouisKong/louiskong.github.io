@@ -1,5 +1,5 @@
 ---
-excerpt: "Oct 23, 2024, I successfully defended my thesis. Thanks for my supervisors, Prof. Hongcai Zhang and Prof. Ningyi Dai!<br/><img src='/images/Graduate1.jpg'><img src='/images/Graduate2.jpg'><img src='/images/Graduate3.jpg'>"
+excerpt: "Oct 23, 2024, I successfully defended my thesis. Thanks for my supervisors, Prof. Hongcai Zhang and Prof. Ningyi Dai!<br/><img src='/images/Graduate1.jpg'><img src='/images/Graduate2.jpg'><img src='/images/Graduate3.jpg'>."
 collection: misc
 ---
 
