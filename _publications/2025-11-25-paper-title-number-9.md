@@ -1,7 +1,7 @@
 ---
 title: "Coordinated Scheduling of Low-Altitude and Ground-Based Three-Dimensional Transportation Vehicles for Distribution Network"
 collection: publications
-permalink: publication/2025-11-25-paper-title-number-1
+permalink: publication/2025-11-25-paper-title-number-9
 date: 2025-11-25
 venue: '2025 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11344850/'
