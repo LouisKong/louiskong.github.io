@@ -25,24 +25,26 @@ Publications
 Research interests
 =====
 * New Electricity Systems
-* Demand Response
-* Electric Vehicles
+* Low-altitude economy
+* Transportation electrification
 * Power-transportation Coupled Networks
 * Optimization Methodology
 
 Academic services
 =====
 **Journal Reviewer**
-* **Reviewer** of *IEEE Transactions on Power System (TPS), Sustainable Energy (TTSE), Smart Grid (TSG), Transportation Electricification (TTE), Power Delivery (TPD)*
+* **Reviewer** of *IEEE Transactions on Power System (TPS), Sustainable Energy (TTSE), Smart Grid (TSG), Transportation Electrification (TTE), Power Delivery (TPD)*
 * **Reviewer** of *Scientific Reports, Reliability Engineering & System Safety*
   
 **Conference Organization**
+* **Program Committee Member**, The 2026 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia), Kunming, China, July 11 – 14, 2026
 * **Program Committee Member**, The 9th IEEE Conference on Energy Internet and Energy System Integration (IEEE EI²), Jilin, China, December 5 – 8, 2025
 * **Track Committee Member**, 2025 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC-AP), Singapore, November 25 - 28, 2025
 * **Technical Committee Member**, The IEEE 7th Student Conference on Electric Machines and Systems (SCEMS), Macau, China, November 6 - 8, 2024
 
 Honors and awards
 =====
+* **The Second Place Prize Paper Award of IEEE Transactions on Transportation Electrification**
 * **UM Macao Ph.D. Scholarship**
 * Mingxi Charity Foundation Youth Scholarship
 * IEEE PES Day Best Project Award
@@ -57,14 +59,15 @@ Work experience
   * Duties included: Agile project development
   * Supervisor: Liu Lei 
 
-* Aug. 2018 to Jun. 2019: Senior Process Engineer
+* Aug. 2016 to Jun. 2019: Senior Process Engineer
   * United Microelectronics Co. Ltd., Singapore
   * Duties included: Ion implanter process improvement, quality improvement team (QIT) project
   * Supervisor: Xie Meng
 
 Skills
 ======
-* Coding: Matlab, C, Python, R
+* AI: Codex, Gemini, Doubao
+* Coding: MATLAB, C, Python, R
 * Texting: LATEX, MS Office, markdown
 * Others: Tableau, Video Editing Software
 * Spoken: Mandarin(native), English(fluent), Cantonese(intermediate)
