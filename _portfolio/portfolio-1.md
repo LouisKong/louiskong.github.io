@@ -4,5 +4,6 @@ excerpt: "Only six selected papers received this award. <br/><img src='/images/T
 collection: portfolio
 ---
 
+<br/><img src='/images/TTE Paper Award.jpg'>
 [Find the latest news here](https://www.ieee-pels.org/awards/transactions-on-transportation-electrification-prize-paper/)
  
