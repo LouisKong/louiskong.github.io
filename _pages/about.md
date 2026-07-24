@@ -14,6 +14,12 @@ Before joining SZPU, I did my Ph.D. at the [State Key Laboratory of Internet of 
 
 Recent News
 ======
+On June 25, 2026, new publication: L. Kong, H. Zhang, L. Du, and N. Dai, “Enhancing resilience of power-transportation coupled networks by spatial-temporal scheduling of EVs based on adjustable robust optimization,” to appear in **IEEE Transactions on Transportation Electrification**, 2026
+
+On Mar. 3, 2026, our paper received **the Second Place Prize Paper Award of IEEE Transactions on Transportation Electrification**: L. Kong, H. Zhang, D. Xie, and N. Dai, “Leveraging Electric Vehicles to Enhance Resilience of Interconnected Power-Transportation System Under Natural Hazards,” IEEE Transactions on Transportation Electrification, vol. 11, no. 1, pp. 1126-1140, 2025.  
+
+On Dec. 9, 2025, I served as the Programme Committee member and Session Chair for the 9th IEEE Conference on Energy Internet and Energy System Integration (IEEE EI² 2025), which was held in Jilin, China.
+
 On Mar. 14, 2025, I joined [the Institute of Intelligence Science and Engineering](https://iise.szpu.edu.cn/), [Shenzhen Polytechnic University (SZPU)](https://www.szpu.edu.cn/) as a **_Research Associate_**. 
 
 On Nov. 13, 2024, I **_graduated with a Ph.D. from the University of Macau_**. I express my deepest gratitude to my supervisors,  [Prof. Ningyi Dai](https://www.fst.um.edu.mo/personal/nydai/) and [Prof. Hongcai Zhang](https://www.fst.um.edu.mo/personal/hczhang/). I would also like to thank the professors on the Examination Committee for my Oral Defense: [Prof. Hongxun Hui](https://huihongxun.github.io/), [Prof. Lao Keng-Weng](https://www.fst.um.edu.mo/personal/johnnylao/), and [Prof. Meng Song](http://www.meng-song.cn/).
